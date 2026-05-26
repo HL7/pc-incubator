@@ -1,0 +1,62 @@
+== Suppressed Messages ==
+
+# Jurisdiction deprecation warning
+INFORMATION: ImplementationGuide/hl7.fhir.uv.pc-incubator: ImplementationGuide.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: ImplementationGuide/hl7.fhir.uv.pc-incubator: ImplementationGuide.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: StructureDefinition/ClinicalAssessment: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ClinicalAssessment-date: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ClinicalAssessment-encounter: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ClinicalAssessment-finding-code: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ClinicalAssessment-finding-ref: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ClinicalAssessment-identifier: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ClinicalAssessment-patient: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ClinicalAssessment-performer: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ClinicalAssessment-previous: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ClinicalAssessment-problem: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ClinicalAssessment-status: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ClinicalAssessment-subject: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ClinicalAssessment-supporting-info: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: ValueSet/clinicalassessment-change-pattern: ValueSet.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: ValueSet/clinicalassessment-prognosis: ValueSet.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: ValueSet/ClinicalAssessment-status: ValueSet.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: ValueSet/clinicalassessment-status-reason: ValueSet.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: ValueSet/investigation-sets: ValueSet.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: StructureDefinition/ConditionDefinition: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ConditionDefinition-context: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ConditionDefinition-context-quantity: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ConditionDefinition-context-type: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ConditionDefinition-context-type-quantity: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ConditionDefinition-context-type-value: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ConditionDefinition-date: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ConditionDefinition-description: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ConditionDefinition-identifier: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ConditionDefinition-jurisdiction: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ConditionDefinition-name: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ConditionDefinition-publisher: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ConditionDefinition-status: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ConditionDefinition-title: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ConditionDefinition-url: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/ConditionDefinition-version: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: CodeSystem/condition-precondition-type: CodeSystem.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: CodeSystem/condition-questionnaire-purpose: CodeSystem.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: ValueSet/condition-precondition-type: ValueSet.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: ValueSet/condition-questionnaire-purpose: ValueSet.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: StructureDefinition/Linkage: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/Linkage-author: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/Linkage-item: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: SearchParameter/Linkage-source: SearchParameter.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: CodeSystem/linkage-type: CodeSystem.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+INFORMATION: ValueSet/linkage-type: ValueSet.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|6.0.0-ballot3
+
+# R6 IG messages
+ERROR: ImplementationGuide/hl7.fhir.uv.pc-incubator: This IG is version 6.0.0-ballot3, while the IG 'hl7.terminology.r5' is from version 5.0.0
+ERROR: ImplementationGuide/hl7.fhir.uv.pc-incubator: This IG is version 6.0.0-ballot3, while the IG 'hl7.fhir.uv.extensions.r5' is from version 5.0.0
+ERROR: ImplementationGuide/hl7.fhir.uv.pc-incubator: This IG is version 6.0.0-ballot3, while the IG 'hl7.fhir.uv.tools.r5' is from version 5.0.0
+ERROR: There is no jira specification file defined with the expected name of FHIR-pc-incubator in the xml folder of the  https://github.com/HL7/Jira-Spec-Artifacts project.  This must exist before ballot or publication.
+WARNING: ImplementationGuide/hl7.fhir.uv.pc-incubator: ImplementationGuide.dependsOn[0]: The ImplementationGuide is based on FHIR version 6.0.0-ballot3 but package hl7.terminology.r5#7.1.0 is based on FHIR version 5.0.0. In general, this version mismatch should be avoided - some tools will try to make this work with variable degrees of success, but others will not even try
+ERROR: ImplementationGuide/hl7.fhir.uv.pc-incubator: ImplementationGuide.dependsOn[1]: The canonical URL http://hl7.org/fhir/extensions/ImplementationGuide/hl7.fhir.uv.extensions points to the package hl7.fhir.uv.extensions which is inconsistent with the stated packageId of hl7.fhir.uv.extensions.r5
+
+# Conformance clause tagging
+
+# This is correct for the CanonicalResource versionAlgorithm interface
+INFORMATION: StructureDefinition/ConditionDefinition: StructureDefinition.differential.element[4].binding: The element ConditionDefinition.versionAlgorithm[x] has a binding, and has multiple types subject to bindings ([string, Coding]). The binding will apply to all the types
