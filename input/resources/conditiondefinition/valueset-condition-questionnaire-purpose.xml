@@ -17,8 +17,8 @@
     <value value="urn:oid:2.16.840.1.113883.4.642.3.3180"/>
   </identifier>
   <version value="6.0.0"/>
-  <name value="ConditionQuestionnairePurpose"/>
-  <title value="Condition Questionnaire Purpose"/>
+  <name value="ConditionQuestionnairePurposeValueSet"/>
+  <title value="Condition Questionnaire Purpose ValueSet"/>
   <status value="active"/>
   <experimental value="false"/>
   <date value="2020-12-28T16:55:11+11:00"/>
