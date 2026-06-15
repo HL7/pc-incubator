@@ -146,19 +146,19 @@
   <entry>
     <resource>
       <SearchParameter>
-        <id value="ClinicalAssessment-relates-to"/>
+        <id value="ClinicalAssessment-compares-to"/>
         <extension url="http://hl7.org/fhir/StructureDefinition/structuredefinition-standards-status">
           <valueCode value="trial-use"/>
         </extension>
         <extension url="http://hl7.org/fhir/build/StructureDefinition/path">
-          <valueString value="ClinicalAssessment.relatesTo"/>
+          <valueString value="ClinicalAssessment.comparesTo"/>
         </extension>
-        <url value="http://hl7.org/fhir/build/SearchParameter/ClinicalAssessment-relates-to"/>
+        <url value="http://hl7.org/fhir/build/SearchParameter/ClinicalAssessment-compares-to"/>
         <status value="active"/>
-        <description value="Reference to other assessments"/>
-        <code value="relates-to"/>
+        <description value="Compares to other assessments that were conducted on this patient"/>
+        <code value="compares-to"/>
         <type value="reference"/>
-        <expression value="ClinicalAssessment.relatesTo"/>
+        <expression value="ClinicalAssessment.comparesTo"/>
         <processingMode value="normal"/>
       </SearchParameter>
     </resource>
