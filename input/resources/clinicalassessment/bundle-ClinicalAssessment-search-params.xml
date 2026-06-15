@@ -146,19 +146,19 @@
   <entry>
     <resource>
       <SearchParameter>
-        <id value="ClinicalAssessment-previous"/>
+        <id value="ClinicalAssessment-relates-to"/>
         <extension url="http://hl7.org/fhir/StructureDefinition/structuredefinition-standards-status">
           <valueCode value="trial-use"/>
         </extension>
         <extension url="http://hl7.org/fhir/build/StructureDefinition/path">
-          <valueString value="ClinicalAssessment.previous"/>
+          <valueString value="ClinicalAssessment.relatesTo"/>
         </extension>
-        <url value="http://hl7.org/fhir/build/SearchParameter/ClinicalAssessment-previous"/>
+        <url value="http://hl7.org/fhir/build/SearchParameter/ClinicalAssessment-relates-to"/>
         <status value="active"/>
-        <description value="Reference to last assessment"/>
-        <code value="previous"/>
+        <description value="Reference to other assessments"/>
+        <code value="relates-to"/>
         <type value="reference"/>
-        <expression value="ClinicalAssessment.previous"/>
+        <expression value="ClinicalAssessment.relates-to"/>
         <processingMode value="normal"/>
       </SearchParameter>
     </resource>
