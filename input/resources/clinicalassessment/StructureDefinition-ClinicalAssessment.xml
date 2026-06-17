@@ -441,11 +441,12 @@
     <element id="ClinicalAssessment.finding.basis">
       <path value="ClinicalAssessment.finding.basis"/>
       <short value="Which investigations support finding"/>
-      <definition value="Which investigations support finding or diagnosis."/>
+      <definition value="Which investigations support finding or diagnosis. (e.g. Observation | Condition | AllergyIntolerance | MedicationRequest | MedicationStatement | DiagnosticReport | DocumentReference | AdverseEvent | FamilyMemberHistory | RiskAssessment | ImagingStudy | Immunization | QuestionnaireResponses)"/>
       <min value="0"/>
       <max value="1"/>
       <type>
-        <code value="string"/>
+        <code value="Reference"/>
+        <targetProfile value="http://hl7.org/fhir/StructureDefinition/Resource"/>
       </type>
     </element>
     <element id="ClinicalAssessment.prognosis">
@@ -479,7 +480,7 @@
         <valueString value="GF#7185, GF#18860."/>
       </extension>
       <path value="ClinicalAssessment.supportingInfo"/>
-      <short value="Information supporting the clinical assessment"/>
+      <short value="Information supporting the clinical assessment (e.g. investigation results)"/>
       <definition value="Information supporting the clinical assessment, which can contain investigation results."/>
       <min value="0"/>
       <max value="*"/>
