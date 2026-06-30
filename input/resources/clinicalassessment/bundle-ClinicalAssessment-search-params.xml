@@ -235,7 +235,7 @@
         </extension>
         <url value="http://hl7.org/fhir/build/SearchParameter/ClinicalAssessment-supporting-info"/>
         <status value="active"/>
-        <description value="Information supporting the clinical impression"/>
+        <description value="Information supporting the clinical assessment (e.g. investigation results)"/>
         <code value="supporting-info"/>
         <type value="reference"/>
         <expression value="ClinicalAssessment.supportingInfo"/>
