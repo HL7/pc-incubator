@@ -440,8 +440,8 @@
     </element>
     <element id="ClinicalAssessment.finding.basis">
       <path value="ClinicalAssessment.finding.basis"/>
-      <short value="Which investigations support finding"/>
-      <definition value="Which investigations support finding or diagnosis. (e.g. Observation | Condition | AllergyIntolerance | MedicationRequest | MedicationStatement | DiagnosticReport | DocumentReference | AdverseEvent | FamilyMemberHistory | RiskAssessment | ImagingStudy | Immunization | QuestionnaireResponses)"/>
+      <short value="What evidence supports the finding"/>
+      <definition value="What evidence supports the finding or diagnosis. (e.g. Observation | Condition | AllergyIntolerance | MedicationRequest | MedicationStatement | DiagnosticReport | DocumentReference | AdverseEvent | FamilyMemberHistory | RiskAssessment | ImagingStudy | Immunization | QuestionnaireResponses)"/>
       <min value="0"/>
       <max value="1"/>
       <type>
